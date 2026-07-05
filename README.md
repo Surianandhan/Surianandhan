@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Surianandhan%20Sridhar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CSBS%20Undergrad,%20Builder%20of%20ML,%20Cloud%20and%20Full-Stack%20Projects&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=220&section=header&text=Surianandhan%20Sridhar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CSBS%20Undergrad,%20Builder%20of%20ML,%20Cloud%20and%20Full-Stack%20Projects&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=764ABC&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Undergrad;Full-Stack+Developer;Cloud+and+ML+Builder;Security+Tooling+Enthusiast" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surianandhan-sridhar-00ab27298)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surianandhan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suria24aus@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Undergrad;Full-Stack+Developer;Cloud+and+ML+Builder;Security+Tooling+Enthusiast" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Surianandhan&label=Profile%20Views&color=764ba2&style=flat" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3a3a3a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surianandhan-sridhar-00ab27298)
+[![GitHub](https://img.shields.io/badge/GitHub-3a3a3a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surianandhan)
+[![Email](https://img.shields.io/badge/Email-3a3a3a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suria24aus@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/About%20Me-764ba2?style=for-the-badge" />
+### About Me
 
 - B.Tech Computer Science and Business Systems (CSBS), SASTRA University — 2023–2027 (expected)
 - Building toward a generalist profile spanning full-stack web development, cloud computing, and applied ML
@@ -27,9 +23,9 @@
 - Volunteer photographer, Prathibimba E-Magazine
 - Preference for verified, execution-backed work over surface-level claims
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/Internship%20Experience-667eea?style=for-the-badge" />
+### Internship Experience
 
 | Organization | Focus |
 |---|---|
@@ -39,9 +35,9 @@
 | Internship Studio | AWS & Java |
 | Webstack Academy | MERN Stack |
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/Featured%20Projects-764ba2?style=for-the-badge" />
+### Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -76,9 +72,9 @@
 
 </details>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/Tech%20Stack-667eea?style=for-the-badge" />
+### Tech Stack
 
 <div align="center">
 
@@ -100,25 +96,16 @@ Each one links to a real project using it, not just a claim.
 
 **C / C++** — [dsa-lab-cse210](https://github.com/Surianandhan/dsa-lab-cse210), [oop-lab-cse216](https://github.com/Surianandhan/oop-lab-cse216), [adsa-lab-cse319](https://github.com/Surianandhan/adsa-lab-cse319)
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/GitHub%20Stats-764ba2?style=for-the-badge" />
+### GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Surianandhan&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surianandhan&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Surianandhan&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Surianandhan&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://streak-stats.demolab.com/?user=Surianandhan&theme=dark&hide_border=true&fire=808080&ring=808080&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=999999&sideLabels=999999&dates=888888" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=Open%20to%20Full-Stack,%20Cloud%20and%20ML%20Opportunities&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=150&section=footer&text=Open%20to%20Full-Stack,%20Cloud%20and%20ML%20Opportunities&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%"/>
