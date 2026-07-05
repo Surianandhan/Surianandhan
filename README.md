@@ -1,21 +1,24 @@
-<h1 align="center">Hi, I'm Surianandhan</h1>
-<h3 align="center">CSBS undergrad who builds instead of just listing skills — ML classifiers, cloud-hosted apps, and full-stack projects.</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/surianandhan-sridhar-00ab27298">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Surianandhan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:suria24aus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Surianandhan%20Sridhar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CSBS%20Undergrad%20%7C%20Builder%20of%20ML,%20Cloud%20%26%20Full-Stack%20Projects&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=764ABC&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Undergrad;Full-Stack+Developer;Cloud+%26+ML+Builder;Security+Tooling+Enthusiast" />
 
-### About Me
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surianandhan-sridhar-00ab27298)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surianandhan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suria24aus@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Surianandhan&label=Profile%20Views&color=764ba2&style=flat" />
+
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/About%20Me-764ba2?style=for-the-badge" />
 
 - B.Tech Computer Science and Business Systems (CSBS), SASTRA University — 2023–2027 (expected)
 - Building toward a generalist profile spanning full-stack web development, cloud computing, and applied ML
@@ -24,9 +27,9 @@
 - Volunteer photographer, Prathibimba E-Magazine
 - Preference for verified, execution-backed work over surface-level claims
 
----
+<br/>
 
-### Internship Experience
+<img src="https://img.shields.io/badge/Internship%20Experience-667eea?style=for-the-badge" />
 
 | Organization | Focus |
 |---|---|
@@ -36,9 +39,9 @@
 | Internship Studio | AWS & Java |
 | Webstack Academy | MERN Stack |
 
----
+<br/>
 
-### Featured Projects
+<img src="https://img.shields.io/badge/Featured%20Projects-764ba2?style=for-the-badge" />
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -73,9 +76,17 @@
 
 </details>
 
----
+<br/>
 
-### Tech Stack
+<img src="https://img.shields.io/badge/Tech%20Stack-667eea?style=for-the-badge" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,aws,git,github&theme=dark" />
+
+</div>
+
+<br/>
 
 Each one links to a real project using it, not just a claim.
 
@@ -89,19 +100,25 @@ Each one links to a real project using it, not just a claim.
 
 **C / C++** — [dsa-lab-cse210](https://github.com/Surianandhan/dsa-lab-cse210), [oop-lab-cse216](https://github.com/Surianandhan/oop-lab-cse216), [adsa-lab-cse319](https://github.com/Surianandhan/adsa-lab-cse319)
 
----
+<br/>
 
-### GitHub Stats
+<img src="https://img.shields.io/badge/GitHub%20Stats-764ba2?style=for-the-badge" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Surianandhan&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surianandhan&layout=compact&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surianandhan&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Surianandhan&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surianandhan&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+<br/>
 
-<p align="center"><em>Open to full-stack, cloud, and ML engineering opportunities.</em></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surianandhan&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Surianandhan&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=Open%20to%20Full-Stack,%20Cloud%20%26%20ML%20Opportunities&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%"/>
