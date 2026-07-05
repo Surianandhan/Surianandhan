@@ -10,6 +10,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-3a3a3a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surianandhan)
 [![Email](https://img.shields.io/badge/Email-3a3a3a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suria24aus@gmail.com)
 
+<br/>
+
+![Followers](https://img.shields.io/github/followers/Surianandhan?style=flat-square&color=3a3a3a&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/Surianandhan?style=flat-square&color=3a3a3a&logo=github&logoColor=white&label=Stars)
+
 </div>
 
 <br/>
@@ -34,6 +39,17 @@
 | NextGen E-Learning Hub | Cloud Computing |
 | Internship Studio | AWS & Java |
 | Webstack Academy | MERN Stack |
+
+---
+
+### Highlights
+
+| Area | Detail |
+|---|---|
+| Academic Program | B.Tech CSBS, SASTRA University (2023–2027) |
+| Internships Completed | 5 — spanning AI/ML, cybersecurity, cloud, and full-stack |
+| Hackathons | Chettinad CodeFest 2026, Cognizant Technoverse |
+| Public Repositories | 20+ across ML, security tooling, and full-stack projects |
 
 ---
 
@@ -98,6 +114,16 @@ Each one links to a real project using it, not just a claim.
 
 ---
 
+### AI/ML & Security Domains
+
+| Domain | Applied In | Approach |
+|---|---|---|
+| Computer Vision | [brain-tumor-cnn-classification](https://github.com/Surianandhan/brain-tumor-cnn-classification) | CNN built in PyTorch, trained on MRI scan data |
+| Classical ML | [fetal-health-classification](https://github.com/Surianandhan/fetal-health-classification) | Logistic Regression, XGBoost, and MLP compared on CTG data |
+| Security Tooling | [ip_intelligence](https://github.com/Surianandhan/ip_intelligence), [canary-token-generator](https://github.com/Surianandhan/canary-token-generator) | Threat-intel API integration and intrusion tripwire generation |
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -105,6 +131,28 @@ Each one links to a real project using it, not just a claim.
 <img src="https://streak-stats.demolab.com/?user=Surianandhan&theme=dark&hide_border=true&fire=808080&ring=808080&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=999999&sideLabels=999999&dates=888888" />
 
 </div>
+
+---
+
+### Current Focus
+
+```yaml
+current:
+  learning: ["Cloud architecture", "Applied ML systems"]
+  building: ["ML classifiers", "Security tooling", "Full-stack apps"]
+  exploring: ["MLOps", "Cybersecurity tooling"]
+  open_to: ["Full-stack", "Cloud", "ML engineering roles"]
+```
+
+---
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surianandhan/Surianandhan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surianandhan/Surianandhan/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Surianandhan/Surianandhan/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
