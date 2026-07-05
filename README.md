@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Surianandhan%20Sridhar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CSBS%20Undergrad%20%7C%20Builder%20of%20ML,%20Cloud%20%26%20Full-Stack%20Projects&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Surianandhan%20Sridhar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CSBS%20Undergrad,%20Builder%20of%20ML,%20Cloud%20and%20Full-Stack%20Projects&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=764ABC&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Undergrad;Full-Stack+Developer;Cloud+%26+ML+Builder;Security+Tooling+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=764ABC&center=true&vCenter=true&width=600&lines=B.Tech+CSBS+Undergrad;Full-Stack+Developer;Cloud+and+ML+Builder;Security+Tooling+Enthusiast" />
 
 <br/>
 
@@ -111,14 +111,14 @@ Each one links to a real project using it, not just a claim.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surianandhan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Surianandhan&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Surianandhan&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Surianandhan&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=Open%20to%20Full-Stack,%20Cloud%20%26%20ML%20Opportunities&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=Open%20to%20Full-Stack,%20Cloud%20and%20ML%20Opportunities&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%"/>
