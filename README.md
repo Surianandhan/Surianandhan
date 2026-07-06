@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3a3a3a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surianandhan-sridhar-00ab27298)
 [![GitHub](https://img.shields.io/badge/GitHub-3a3a3a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surianandhan)
-[![Email](https://img.shields.io/badge/Email-3a3a3a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suria24aus@gmail.com)
 
 <br/>
 
